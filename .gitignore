@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+.DS_Store
+.ipynb_checkpoints/
+# Ignore virtual environment
+.venv/
+
+# Ignore trained ML model files
+model/*.pkl
